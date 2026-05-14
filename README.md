@@ -60,36 +60,62 @@ This project uses the OpenWeatherMap API.
 
 Create a free account at
 OpenWeatherMap
+
 Generate your API key
+
 Replace the API key inside index.js
 const apiKey = "YOUR_API_KEY";
+
 🎨 UI Highlights
+
 Frosted glass weather card
+
 Smooth hover animations
+
 Floating cloud effects
+
 Responsive layout
+
 Dynamic gradients for:
+
 ☀️ Sunny
+
 🌧️ Rainy
+
 ⛈️ Thunderstorm
+
 ❄️ Snow
+
 ☁️ Cloudy
+
 📌 Weather Conditions Supported
+
 Weather Type	Emoji
+
 Thunderstorm	⛈️
+
 Drizzle	🌧️
+
 Rain	⛈️
+
 Snow	❄️
+
 Fog	🌫️
+
 Clear Sky	🌞
+
 Clouds	☁️
+
 📖 Files Overview
+
 index.html
 
 Main structure of the application containing:
 
 Search form
+
 Weather card
+
 Credit section
 
 index.js
@@ -97,9 +123,13 @@ index.js
 Handles:
 
 API fetching
+
 Weather data display
+
 Dynamic backgrounds
+
 Error handling
+
 Weather emoji mapping
 
 style.css
@@ -107,18 +137,29 @@ style.css
 Contains:
 
 Glassmorphism design
+
 Floating clouds animation
+
 Weather card styling
+
 Responsive layout
+
 Animated effects
 
 🌟 Future Improvements
+
 📍 Current location weather
+
 📅 5-day forecast
+
 🌙 Dark/Light mode toggle
+
 📱 Better mobile responsiveness
+
 🌎 Multi-language support
+
 🌡️ Celsius/Fahrenheit switch
+
 👨‍💻 Author
 
 Made with ❤️ by Akshansh
