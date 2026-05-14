@@ -6,15 +6,25 @@ The app features dynamic backgrounds, animated UI elements, glassmorphism effect
 ✨ Features
 
 🔍 Search weather by city name
+
 🌡️ Real-time temperature display
+
 💧 Humidity information
+
 🤗 "Feels Like" temperature
+
 ☁️ Dynamic weather emojis
+
 🎨 Dynamic background changes based on weather conditions
+
 ✨ Glassmorphism UI design
+
 ☁️ Floating cloud animations
+
 🌌 Animated stars effect
+
 ❌ Error handling for invalid city names
+
 📸 Preview
 5
 🛠️ Technologies Used
