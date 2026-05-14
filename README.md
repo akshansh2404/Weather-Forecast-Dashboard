@@ -25,22 +25,31 @@ The app features dynamic backgrounds, animated UI elements, glassmorphism effect
 
 ❌ Error handling for invalid city names
 
-📸 Preview
-5
+
 🛠️ Technologies Used
+
 HTML5
+
 CSS3
+
 JavaScript (Vanilla JS)
+
 OpenWeatherMap API
+
 📂 Project Structure
+
 📦 Weather-App
+
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┣ 📜 index.js
  ┗ 📜 README.md
+ 
 🚀 Getting Started
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/weather-app.git
+
 2️⃣ Open the project
 
 Simply open index.html in your browser.
