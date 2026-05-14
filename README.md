@@ -4,6 +4,7 @@ A modern and animated weather application built using HTML, CSS, and JavaScript 
 The app features dynamic backgrounds, animated UI elements, glassmorphism effects, floating clouds, and responsive weather cards.
 
 ✨ Features
+
 🔍 Search weather by city name
 🌡️ Real-time temperature display
 💧 Humidity information
